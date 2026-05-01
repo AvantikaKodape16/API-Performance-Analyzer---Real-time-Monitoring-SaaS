@@ -2,21 +2,36 @@ A production-ready SaaS platform for monitoring, analyzing, and tracking API per
 
 ----
 
-Key Features
+🚀 Key Features
 
 📊 Real-time performance metrics & analytics
-⚡ Add unlimited API endpoints to monitor
+⚡ Monitor unlimited API endpoints
 🚨 Intelligent alert system for slow APIs & errors
 📈 Interactive charts & performance trends
-🔄 Celery + Redis for reliable background monitoring
-🐳 Docker-ready for instant deployment
+🔄 Background processing with Celery & Redis
+🐳 Docker-ready for seamless deployment
 
-----
+------
 
-Tech Stack
+🛠 Tech Stack
 
-Backend: Django, DRF, PostgreSQL, Celery, Redis
-Frontend: React, Recharts, Axios
-DevOps: Docker, Docker Compose
+Backend
+
+Django
+Django REST Framework (DRF)
+PostgreSQL
+Celery
+Redis
+
+Frontend
+
+React
+Recharts
+Axios
+
+DevOps
+
+Docker
+Docker Compose
 
 ---
